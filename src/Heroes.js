@@ -10,16 +10,7 @@ function Heroes() {
     let link = "https://wa.me/905322600861?text=" + encodeURI(metin)
 
     return (
-        <div>
-            <div className="px-4 pt-5 text-center border-bottom">
-                <h1 className="display-4 fw-bold">
-                    <i class="fas fa-truck-moving"></i> kamyongelsin.com
-                </h1>
-
-                <p className="lead fst-italic mb-4">
-                    Şehir içi ve şehirler arası taşımacılık                    
-                </p>
-
+            <div className="px-4 pt-3 text-center border-bottom">
                 <div className="col-lg-6 mx-auto">
                     <p className="lead fw-bold">
                         <Typewriter
@@ -47,7 +38,6 @@ function Heroes() {
                     <h1 className="display-6 mb-4">
                         <i class="fab fa-whatsapp whatsapp-color"></i> 0532 260 0861
                     </h1>            
-
                     <p className="lead fst-italic mb-4">
                         kamyongelsin.com, taşıma taleplerin için en uygun fiyatı anında verir.<br></br>
                         Hem zamandan hem maliyetten kazanmak artık senin elinde.<br></br>
@@ -78,7 +68,6 @@ function Heroes() {
                     </div>
                 </div>
             </div>
-        </div>
     )
 }
 
