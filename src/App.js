@@ -1,10 +1,11 @@
 import React from 'react';
-import Navbar from './Navbar';
+import Heroes from './Heroes';
+import './App.css'
 
 function App() {
   return (
     <React.Fragment>
-      <Navbar />
+      <Heroes />
     </React.Fragment>
   );
 }
