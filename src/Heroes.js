@@ -10,20 +10,17 @@ function Heroes() {
     let link = "https://wa.me/905322600861?text=" + encodeURI(metin)
 
     return (
-            <div className="px-4 pt-3 text-center border-bottom">
+            <div className="px-4 pt-3 text-center mb-5">
                 <div className="col-lg-6 mx-auto">
                     <p className="lead fw-bold">
                         <Typewriter
                             options={{
                                 strings: [
-                                        'Eşyalarını',
-                                        'Deponu',
-                                        'Ofisini',
-                                        'Taksiyle taşıyamadığın eşyalarını',
-                                        '1+1 evini',
-                                        '2+1 evini',
-                                        '3+1 evini',
-                                        'İhtiyacın olan bütün taşıma operasyonlarını',
+                                    "Bütün fabrikasyon yüklerinizi",
+                                    "Parsiyel (Parça) yüklerinizi",
+                                    "Ev eşyalarınızı",
+                                    "Sebze-meyve yüklerinizi",
+                                    "Canlı hayvanlarınızı"
                                     ],
                                 autoStart: true,
                                 loop: true,
@@ -41,7 +38,7 @@ function Heroes() {
                     <p className="lead fst-italic mb-4">
                         kamyongelsin.com, taşıma taleplerin için en uygun fiyatı anında verir.<br></br>
                         Hem zamandan hem maliyetten kazanmak artık senin elinde.<br></br>
-                        Şimdi ihtiyacını anlat ve yüzlerce araç arasından en düşük fiyat teklifini anında al
+                        Şimdi ihtiyacını anlat ve yüzlerce araç arasından en düşük fiyat teklifini anında al.
                     </p>
 
                     <div className="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
