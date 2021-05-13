@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kamyongelsincom/static/css/main.d19de876.chunk.css",
+    "main.js": "/kamyongelsincom/static/js/main.19d9c2fe.chunk.js",
+    "main.js.map": "/kamyongelsincom/static/js/main.19d9c2fe.chunk.js.map",
+    "runtime-main.js": "/kamyongelsincom/static/js/runtime-main.7f2f9d31.js",
+    "runtime-main.js.map": "/kamyongelsincom/static/js/runtime-main.7f2f9d31.js.map",
+    "static/js/2.eef3879d.chunk.js": "/kamyongelsincom/static/js/2.eef3879d.chunk.js",
+    "static/js/2.eef3879d.chunk.js.map": "/kamyongelsincom/static/js/2.eef3879d.chunk.js.map",
+    "static/js/3.ffae34ba.chunk.js": "/kamyongelsincom/static/js/3.ffae34ba.chunk.js",
+    "static/js/3.ffae34ba.chunk.js.map": "/kamyongelsincom/static/js/3.ffae34ba.chunk.js.map",
+    "index.html": "/kamyongelsincom/index.html",
+    "static/css/main.d19de876.chunk.css.map": "/kamyongelsincom/static/css/main.d19de876.chunk.css.map",
+    "static/js/2.eef3879d.chunk.js.LICENSE.txt": "/kamyongelsincom/static/js/2.eef3879d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f2f9d31.js",
+    "static/js/2.eef3879d.chunk.js",
+    "static/css/main.d19de876.chunk.css",
+    "static/js/main.19d9c2fe.chunk.js"
+  ]
+}
