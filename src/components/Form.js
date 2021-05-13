@@ -109,7 +109,7 @@ function Form() {
     const handleSubmit = (e) => {
         //Normal davranışını yaptırmaz.
         e.preventDefault()
-        let metin = "Size kamyongelsin.com üzerinden ulaşıyorum. Nakliyem " + nereden + " içerisinden " + nereye + " içerisine taşınacak. Ürün hakkında bilgi ise " + aciklama
+        let metin = "Size kamyongelsin.com üzerinden ulaşıyorum. Nakliyem " + nereden + " içerisinden " + nereye + " içerisine taşınacak. Ürünüm hakkında bilgi ise " + aciklama
         let link = "https://wa.me/905322600861?text=" + encodeURI(metin)
         window.location.href = link;
         console.log(link)
