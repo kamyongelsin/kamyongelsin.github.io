@@ -18,7 +18,7 @@ function Citys() {
         {'sehir':'Bartın'},
         {'sehir':'Batman'},
         {'sehir':'Bayburt'},
-        {'sehir':'Bilecikk'},
+        {'sehir':'Bilecik'},
         {'sehir':'Bingöl'},
         {'sehir':'Bitlis'},
         {'sehir':'Bolu'},
@@ -97,7 +97,7 @@ function Citys() {
                         {
                         citys.map((item) => {
                             return(
-                            <div className="col-lg-3 col-md-4 col-sm-6 col-12 mb-3">
+                            <div className="col-lg-3 col-md-4 col-sm-6 col-6 mb-3">
                                 <button type="button" class="btn btn-outline-primary">
                                         {item.sehir}   
                                     </button>

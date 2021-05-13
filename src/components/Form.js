@@ -19,7 +19,7 @@ function Form() {
         {'sehir':'Bartın'},
         {'sehir':'Batman'},
         {'sehir':'Bayburt'},
-        {'sehir':'Bilecikk'},
+        {'sehir':'Bilecik'},
         {'sehir':'Bingöl'},
         {'sehir':'Bitlis'},
         {'sehir':'Bolu'},
