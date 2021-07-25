@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import Typewriter from 'typewriter-effect';
 
-function Form() {
+function WhatsappForm() {
 
     let citys = [
         {'sehir':'Adana'},
@@ -198,4 +198,4 @@ function Form() {
     )
 }
 
-export default Form
+export default WhatsappForm
