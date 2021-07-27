@@ -1,18 +1,7 @@
-import React, { useState} from 'react';
+import React from 'react';
 import logo from '../figures/kg-logo.png';
 
 function Headers() {
-
-    const [colorChange, setColorchange] = useState(false);
-    const changeNavbarColor = () =>{
-        if(window.scrollY >= 20){
-            setColorchange(true);
-            }
-        else{
-            setColorchange(false);
-            }
-        };
-    window.addEventListener('scroll', changeNavbarColor);
 
     return (
         <React.Fragment>
